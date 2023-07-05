@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(138, 240, 240);
+  font-size: medium;
+  font-family:sans-serif;
+}
+
+.profile_pic img {
+  height: 200px;
+  margin-bottom: 20px;
+}
